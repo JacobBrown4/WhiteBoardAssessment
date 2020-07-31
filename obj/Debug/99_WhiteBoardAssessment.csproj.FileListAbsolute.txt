@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\bin\Debug\99_WhiteBoardAssessment.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\bin\Debug\99_WhiteBoardAssessment.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\bin\Debug\99_WhiteBoardAssessment.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\obj\Debug\99_WhiteBoardAssessment.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\obj\Debug\99_WhiteBoardAssessment.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\obj\Debug\99_WhiteBoardAssessment.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\99_WhiteBoardAssessment\obj\Debug\99_WhiteBoardAssessment.pdb
